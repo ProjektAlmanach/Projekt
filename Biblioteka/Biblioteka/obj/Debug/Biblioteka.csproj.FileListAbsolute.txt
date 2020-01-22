@@ -1,0 +1,12 @@
+C:\Users\eperlinski\Desktop\Projekt\Biblioteka\Biblioteka\bin\Debug\Biblioteka.dll
+C:\Users\eperlinski\Desktop\Projekt\Biblioteka\Biblioteka\bin\Debug\Biblioteka.pdb
+C:\Users\eperlinski\Desktop\Projekt\Biblioteka\Biblioteka\obj\Debug\Biblioteka.csprojAssemblyReference.cache
+C:\Users\eperlinski\Desktop\Projekt\Biblioteka\Biblioteka\obj\Debug\Biblioteka.csproj.CoreCompileInputs.cache
+C:\Users\eperlinski\Desktop\Projekt\Biblioteka\Biblioteka\obj\Debug\Biblioteka.dll
+C:\Users\eperlinski\Desktop\Projekt\Biblioteka\Biblioteka\obj\Debug\Biblioteka.pdb
+C:\Users\Eryk\Desktop\Projekt\Biblioteka\Biblioteka\bin\Debug\Biblioteka.dll
+C:\Users\Eryk\Desktop\Projekt\Biblioteka\Biblioteka\bin\Debug\Biblioteka.pdb
+C:\Users\Eryk\Desktop\Projekt\Biblioteka\Biblioteka\obj\Debug\Biblioteka.csprojAssemblyReference.cache
+C:\Users\Eryk\Desktop\Projekt\Biblioteka\Biblioteka\obj\Debug\Biblioteka.csproj.CoreCompileInputs.cache
+C:\Users\Eryk\Desktop\Projekt\Biblioteka\Biblioteka\obj\Debug\Biblioteka.dll
+C:\Users\Eryk\Desktop\Projekt\Biblioteka\Biblioteka\obj\Debug\Biblioteka.pdb
